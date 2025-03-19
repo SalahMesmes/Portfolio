@@ -1,5 +1,5 @@
 .timelineContainer{
-    background: #FFB6C1;
+    background: #64a6cc;
 }
 
 .timeline{
@@ -34,19 +34,19 @@
 }
 
 .card:nth-child(6n+1), .card:nth-child(6n+1):before{
-    background: #ff4f98;
+    background: #4682B4;
 }
 .card:nth-child(6n+2), .card:nth-child(6n+2):before{
-    background: #f9ff80;
+    background: #87CEFA;
 }
 .card:nth-child(6n+3), .card:nth-child(6n+3):before{
-    background: #ffcd82;
+    background: #1E40AF;
 }
 .card:nth-child(6n+4), .card:nth-child(6n+4):before{
-    background: #ff4f98;
+    background: #3e5c8b;
 }
 .card:nth-child(6n+5), .card:nth-child(6n+5):before{
-    background: #ae68dae1;
+    background: #90E0EF;
 }
 
 @media (min-width: 991px) {
@@ -64,7 +64,7 @@
         transform: translateY(-50%);
         width: 20px;
         height: 20px;
-        border: 5px solid #FFB6C1;
+        border: 5px solid #64a6cc;
         border-radius: 50%;
         z-index: 2;
     }
@@ -91,7 +91,7 @@
         transform: translateY(-50%);
         width: 20px;
         height: 20px;
-        border: 5px solid #FFB6C1;
+        border: 5px solid #64a6cc;
         border-radius: 50%;
         z-index: 2;
     }

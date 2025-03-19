@@ -1,5 +1,5 @@
 .work {
-    background: #FFB6C1;
+    background: #64a6cc;
 
 }
 
@@ -67,7 +67,7 @@ a#syntheseE5 {
 
 .acc-btn:before {
     content: "\27A4";
-    color: #fff;
+    color: #2323dd;
     margin: 0 20px;
     float: left;
     transition: all 0.3s linear;
@@ -79,7 +79,12 @@ a#syntheseE5 {
 }
 
 .acc-btn.is-open {
-    color: var(--lBlue);
+    color:   #ffffff;
+    border-bottom: 1px solid #fff;
+}
+
+.acc-btn.is-open {
+    color:   #000000;
     border-bottom: 1px solid #fff;
 }
 
